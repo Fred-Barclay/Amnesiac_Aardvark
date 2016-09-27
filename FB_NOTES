@@ -7,3 +7,5 @@ build.sh is a good source of what files are needed, but I've removed it since I 
 Handle signing.
 
 Should defaults/ be in src/ ?
+
+doc/* still uses Privacy Badger.

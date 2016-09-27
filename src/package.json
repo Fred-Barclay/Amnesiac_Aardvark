@@ -1,9 +1,9 @@
 {
-  "name": "privacybadger",
-  "title": "Privacy Badger",
+  "name": "amnesiac_aardvark",
+  "title": "Amnesiac Aardvark",
   "id": "jid1-MnnxcxisBPnSXQ@jetpack",
   "description": "Protects privacy by blocking spying ads and invisible trackers.",
-  "author": "Electronic Frontier Foundation",
+  "author": "Electronic Frontier Foundation and Fred Barclay",
   "contributors": ["Yan Zhu", "Garrett Robinson", "Monica Chew", "Cooper Quintin", "Noah Swartz",
                    "Dan Auerbach", "Peter Eckersley", "Jonathan Mayer", "Hugh D'Andrade",
                    "Franziska Roesner", "Jacob Hoffman-Andrews", "Jeremey Gillula",
