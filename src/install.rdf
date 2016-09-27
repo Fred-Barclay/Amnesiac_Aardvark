@@ -6,12 +6,12 @@
           <em:bootstrap>true</em:bootstrap>
           <em:unpack>false</em:unpack>
           <em:version>1.8.1</em:version>
-          <em:name>Amnesiac Ardvark</em:name>
+          <em:name>Amnesiac Aardvark</em:name>
           <em:description>Protects privacy by blocking spying ads and invisible trackers.</em:description>
           <em:creator>Fred Barclay</em:creator>
           <em:optionsURL>data:text/xml,&lt;placeholder/&gt;</em:optionsURL>
           <em:optionsType>2</em:optionsType>
-			
+
          <em:contributor>Electronic Frontier Foundation</em:contributor>
 
           <em:contributor>Yan Zhu</em:contributor>
