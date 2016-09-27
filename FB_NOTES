@@ -1,0 +1,8 @@
+Check id in package.json to see if it needs to be changed.
+
+Contact the EFF to see if they should be listed as creator or contributor. Currently install.rdf has them as contributor, while package.json has both FB and them as author.
+
+build.sh is a good source of what files are needed, but I've removed it since I don't use jpm.
+
+Handle signing.
+
